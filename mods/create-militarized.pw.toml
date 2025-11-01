@@ -1,13 +1,13 @@
-name = "Create: militarized"
+name = "Create Militarized"
 filename = "create_militarized_-4.0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "22d95d6028dea9fba6e89d2d9c70be99e549a0bf"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/n168Utxd/versions/oiP6THiI/create_militarized_-4.0.4.jar"
+hash-format = "sha512"
+hash = "4eaf72a888779eab9c37eb01d673ef9a57c68f89e0528b90d5a64bd11bd03b9854fc6cb12edc731a1fb6e6486f7d8a5b3d8b0b86aee2b045f85b07073bcb4484"
 
 [update]
-[update.curseforge]
-file-id = 6955650
-project-id = 939431
+[update.modrinth]
+mod-id = "n168Utxd"
+version = "oiP6THiI"

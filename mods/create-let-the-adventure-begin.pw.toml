@@ -3,11 +3,11 @@ filename = "create_ltab-3.3.5.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dff80d322ad22b382710388dc4da26d5985aefab"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/OBaHTLNk/create_ltab-3.3.5.jar"
+hash-format = "sha512"
+hash = "c5cbdf534f626585f6667c460c82d64f5c017cc6111313b226e54bcad7732d7ae9dbaa7f81bde72fbe7a4a845f683f91854cc0a1339923a8357925da08b5a4c7"
 
 [update]
-[update.curseforge]
-file-id = 7147909
-project-id = 1007872
+[update.modrinth]
+mod-id = "fUa6OtBG"
+version = "OBaHTLNk"

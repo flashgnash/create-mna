@@ -3,11 +3,11 @@ filename = "Fairytale-Origins-1.0.2.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "dadb43075494b98727efd65a3a6705d371184044"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/1LCipQ4d/versions/21RqE8T9/Fairytale-Origins-1.0.2.jar"
+hash-format = "sha512"
+hash = "861bf526bfa518d7fc0e4de05e2a9796a7900292c6607f8de07c3967a58fbee6c435816b8bd42be934f410bb976ef32d73cc5d07b0e65615d914d3aeacab8694"
 
 [update]
-[update.curseforge]
-file-id = 6229052
-project-id = 1205397
+[update.modrinth]
+mod-id = "1LCipQ4d"
+version = "21RqE8T9"

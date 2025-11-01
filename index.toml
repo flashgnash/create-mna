@@ -421,6 +421,11 @@ file = "config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
+metafile = true
+
+[[files]]
 file = "mods/Connector-1.0.0-beta.46+1.20.1.jar.disabled"
 hash = "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac"
 
@@ -555,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-design-n-decor.pw.toml"
-hash = "5de85151d1381261bb6e0246f599b7d3d7b9e55414bff2ea82c19b75c37de852"
+hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
 metafile = true
 
 [[files]]
@@ -570,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "4fba8eb52120baf4967576dab44fb23d0106c80a5d3e3f5702838646f9ad419c"
+hash = "2a6ef03990b0f55a94fee28f5c116c836ccfbe537ad1d9ea19598de6ba207560"
 metafile = true
 
 [[files]]
@@ -589,7 +594,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-militarized.pw.toml"
-hash = "4d086771d092331867acd2c26666f8d78dfae20fa9cc4197be7b4b3ae2a17f19"
+hash = "5beecbc9087d5c9c3934cd0ef732590f1281e56283e3c95c6a785fa7ca3928af"
 metafile = true
 
 [[files]]
@@ -663,7 +668,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-weaponry.pw.toml"
-hash = "3018f7b1a60c75d8ad87a3c0168532ffc382b8c6c5eff36b2703d8e59b79f9b0"
+hash = "a1dc0b52f89bd62f89dc4983a860c716f5325c6c6f141d656aa863679014caf7"
 metafile = true
 
 [[files]]
@@ -714,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/fairytale-origins.pw.toml"
-hash = "b67f2d5ba44ff30ef6418017d24a09803c7fe0f3bd7f2d30b28d90eccd05f08c"
+hash = "742d191dd389d59755032071f7cb3c57cd107a1f1cb88c4aa4603944562a1097"
 metafile = true
 
 [[files]]
@@ -948,6 +953,11 @@ hash = "0e0e3f0cf4b479d544c4de115183dec9e64619fe13dd1d027cfe08c641ddb07c"
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "da92e9606b616857fd108d05d713d93cd9f6c586ed00ca0b696cc90f19eba6b4"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-delight.pw.toml"
+hash = "a02a308cb3d5db184feeaa2c9493ec10531f017b9b39a4ea982fca2b11f08bb8"
 metafile = true
 
 [[files]]
