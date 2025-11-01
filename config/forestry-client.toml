@@ -8,10 +8,9 @@ enable_glints = true
 mail_alerts_enable = true
 
 [jei_bees]
-	#Set to false to disable display of mutation requirements
-	show_requirements = true
-	#Set to false to disable display of secret mutations
-	show_secret_mutations = true
-	#Set to false to disable showing identified genome in recipes
-	show_analyzed_tooltip = true
-
+#Set to false to disable display of mutation requirements
+show_requirements = true
+#Set to false to disable display of secret mutations
+show_secret_mutations = true
+#Set to false to disable showing identified genome in recipes
+show_analyzed_tooltip = true

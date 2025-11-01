@@ -1,8 +1,7 @@
 
 #Settings for the mechanical sifter
 [sifter]
-	#Render sifted block
-	renderSiftedBlock = true
-	#Render moving mesh
-	renderMovingMesh = true
-
+#Render sifted block
+renderSiftedBlock = true
+#Render moving mesh
+renderMovingMesh = true

@@ -10,4 +10,3 @@ monitor_distance = 64
 #The delay in seconds after which we'll notify about unhandled imports. Set to 0 to disable.
 #Range: 0 ~ 60
 upload_nag_delay = 5
-
