@@ -472,6 +472,16 @@ hash = "48ddfc4225936a611f738b22b22b48cdc5977715ab75c21ffaa4d36d536e1147"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "058699e4832d0cf5396c5ea29244100f0c0e39a8d7aa5b64c2afdcc3cb8c8145"
 metafile = true
@@ -524,8 +534,23 @@ hash = "6a4eb5e1762d7e12ca0ea233e09f380d5e996cba37bfa188556cd7940fe35e84"
 metafile = true
 
 [[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
 metafile = true
 
 [[files]]
@@ -701,6 +726,11 @@ hash = "ff55f6dd98968c446e32885ec0eae66ee882071f8a4efbf1486e57590778b2eb"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
@@ -708,6 +738,11 @@ metafile = true
 [[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "1bc1fd0cb2fda0b3950b11efbca3239a89b4184e3b5e0550dd7f1f94ca67cddc"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
 metafile = true
 
 [[files]]
@@ -731,8 +766,18 @@ hash = "9f2ffb0d4c65fcb2a96878287a7119459b9d0637c395e5097d691416690d6563"
 metafile = true
 
 [[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "0d285af302596718fb74920b23c2eceff1b54fe06d107aad51346aabcebfed3d"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
@@ -794,8 +839,23 @@ hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
 
 [[files]]
+file = "mods/krypton-fnp.pw.toml"
+hash = "d99d1c2d31ef8198c37c853676c71017ed2304d267d0590cbcb6c3658f674d0f"
+metafile = true
+
+[[files]]
 file = "mods/lazy-engines.pw.toml"
 hash = "27ac1d7d5cfa64fa0680bfee294e2cf090df2d6ce27ac2d62b9f27f6f4a40c78"
+metafile = true
+
+[[files]]
+file = "mods/leaky.pw.toml"
+hash = "636782e1ca59054f196895cbe26218365960dafebb6b3d8f018320847271674a"
+metafile = true
+
+[[files]]
+file = "mods/limited-chunkloading.pw.toml"
+hash = "ec4a1d920bd1b52bc31dc6546870bee92e450a4d6accfcd6cf96fd6b6f594be9"
 metafile = true
 
 [[files]]
@@ -816,6 +876,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "4f818ebe7421a0ae41154fb479273dab515993b76c194c815d824f98e4f53a5e"
+metafile = true
+
+[[files]]
+file = "mods/memory-settings.pw.toml"
+hash = "c0e6a14f6320209bd493d8591589be7db82c32d054fcc114d7b0081956ad27c1"
 metafile = true
 
 [[files]]
@@ -915,6 +980,11 @@ hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
 metafile = true
 
 [[files]]
+file = "mods/recipe-essentials-forge-fabric.pw.toml"
+hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
+metafile = true
+
+[[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "8206df6c97f3b0696ca143240084eea614dc1f404ab917dde9c5f156cebafa02"
 metafile = true
@@ -927,6 +997,21 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "37eddc9a6e46af2cea7bbc5751aa5c87cde50b4e9fe7b46d9a4da90660245e58"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a061b4f98461fc38b4ff6495b5e3a9b8708e9d87333c2cbb29e6b265053a5abe"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
+metafile = true
+
+[[files]]
+file = "mods/structure-essentials-forge-fabric.pw.toml"
+hash = "8f907c02b348e25358cf2bca42e9105b9b6103f670bf36432da6752e2c8806db"
 metafile = true
 
 [[files]]
