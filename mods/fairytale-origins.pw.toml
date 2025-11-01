@@ -1,0 +1,13 @@
+name = "Fairytale Origins"
+filename = "Fairytale-Origins-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dadb43075494b98727efd65a3a6705d371184044"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6229052
+project-id = 1205397

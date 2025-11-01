@@ -1,0 +1,12 @@
+name = "m&a create cf"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b7d859c2006e2ab8f4c6a0d9581eb72b198d4920ad336b487d558419a693b3b9"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

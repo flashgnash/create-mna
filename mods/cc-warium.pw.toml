@@ -1,0 +1,13 @@
+name = "CC:Warium"
+filename = "ccwarium-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fdf37cd9864c360bc4b33e10a99b0ee993c4e33c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7075833
+project-id = 1353165

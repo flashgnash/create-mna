@@ -1,0 +1,13 @@
+name = "Create Additions & Synthetics"
+filename = "create_additions_synthetics-3.4.4-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af8210529916df0aa76bd33c1def48772bac4340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7042410
+project-id = 961527

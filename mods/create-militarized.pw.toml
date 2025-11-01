@@ -1,0 +1,13 @@
+name = "Create: militarized"
+filename = "create_militarized_-4.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22d95d6028dea9fba6e89d2d9c70be99e549a0bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6955650
+project-id = 939431
