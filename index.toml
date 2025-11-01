@@ -825,6 +825,11 @@ hash = "88f142bda6bfa6aff4f4d4e12b8ba7581aa40e3f163039a533f09dd6d634e093"
 metafile = true
 
 [[files]]
+file = "mods/geolosys.pw.toml"
+hash = "f6ed6edb802a4ad1d35c372e069b6570587cf61e33fa3d0333e5bf21d9b17cd3"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
