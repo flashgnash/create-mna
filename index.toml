@@ -1092,6 +1092,10 @@ file = "options.txt"
 hash = "ae5ba701a42d2ada2eaf14546909b4605c15154a0fd4b6c0f48dd0997dcf9d0b"
 
 [[files]]
+file = "servers.dat"
+hash = "6bed6faabe0a27e10dec4d6e4c8981fc5d376be596c6c5738ab5a8b7e69d125e"
+
+[[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
 hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
 metafile = true
