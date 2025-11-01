@@ -1,516 +1,517 @@
 
 [origins]
 
-[origins."origins:enderian"]
-enabled = true
-"origins:throw_ender_pearl" = true
-"origins:water_vulnerability" = true
-"origins:pumpkin_hate" = true
-"origins:extra_reach" = true
-"origins:ender_particles" = true
-"origins:damage_from_potions" = true
-
-[origins."kitsune:kitsunewhite"]
-enabled = true
-"kitsune:speed" = true
-"kitsune:sneaky" = true
-"kitsune:berry" = true
-"kitsune:foxy" = true
-"kitsune:ancientwhite" = true
-"kitsune:lesshealth" = true
-
-[origins."tinkerer:demishort"]
-enabled = true
-"tinkerer:demishort" = true
-
-[origins."origins:feline"]
-enabled = true
-"origins:fall_immunity" = true
-"origins:sprint_jump" = true
-"origins:velvet_paws" = true
-"origins:nine_lives" = true
-"origins:weak_arms" = true
-"origins:scare_creepers" = true
-"origins:cat_vision" = true
-
-[origins."origins:elytrian"]
-enabled = true
-"origins:elytra" = true
-"origins:launch_into_air" = true
-"origins:aerial_combatant" = true
-"origins:light_armor" = true
-"origins:claustrophobia" = true
-"origins:more_kinetic_damage" = true
-
-[origins."fairytale:red_riding_hood"]
-enabled = true
-"fairytale:forest_stealth" = true
-"fairytale:wolf_detection" = true
-"fairytale:enhanced_forest_speed" = true
-"fairytale:village_hero" = true
-"fairytale:night_vulnerability" = true
-"fairytale:axe_proficiency" = true
-"fairytale:no_wolf_taming" = true
-
-[origins."rpg_origins:cleric"]
-enabled = true
-"rpg_origins:villagefriendly" = true
-"rpg_origins:untrained" = true
-"rpg_origins:brewer_jumpboost" = true
-"rpg_origins:brewer_speed" = true
-"rpg_origins:brewer_strength" = true
-"rpg_origins:brewer_regeneration" = true
-"rpg_origins:heal_pool" = true
-"rpg_origins:forgivable" = true
-"rpg_origins:pure" = true
-"rpg_origins:pure_color" = true
-"rpg_origins:pure_shake" = true
-"rpg_origins:one_with_the_world" = true
-
-[origins."tinkerer:tallest"]
-enabled = true
-"tinkerer:tallest" = true
-
-[origins."origins:phantom"]
-enabled = true
-"origins:phantomize" = true
-"origins:translucent" = true
-"origins:phasing" = true
-"origins:invisibility" = true
-"origins:burn_in_daylight" = true
-"origins:hunger_over_time" = true
-"origins:fragile" = true
-"origins:phantomize_overlay" = true
-
-[origins."tinkerer:demitall"]
-enabled = true
-"tinkerer:demitall" = true
-
-[origins."rpg_origins:knight"]
-enabled = true
-"rpg_origins:durable" = true
-"origins:more_exhaustion" = true
-"rpg_origins:prepared" = true
-"rpg_origins:trained" = true
-
-[origins."origins:blazeborn"]
-enabled = true
-"origins:fire_immunity" = true
-"origins:nether_spawn" = true
-"origins:burning_wrath" = true
-"origins:hotblooded" = true
-"origins:water_vulnerability" = true
-"origins:flame_particles" = true
-"origins:damage_from_snowballs" = true
-"origins:damage_from_potions" = true
-
-[origins."origins:avian"]
-enabled = true
-"origins:slow_falling" = true
-"origins:fresh_air" = true
-"origins:like_air" = true
-"origins:tailwind" = true
-"origins:lay_eggs" = true
-"origins:vegetarian" = true
-
-[origins."fairytale:frog_prince"]
-enabled = true
-"fairytale:amphibian_abilities" = true
-"fairytale:water_walking" = true
-"fairytale:underwater_vision" = true
-"fairytale:hot_biome_vulnerability" = true
-"fairytale:no_chestplate" = true
-"fairytale:land_weakness" = true
-
-[origins."kitsune:kitsunered"]
-enabled = true
-"kitsune:speed" = true
-"kitsune:sneaky" = true
-"kitsune:berry" = true
-"kitsune:foxy" = true
-"kitsune:ancientred" = true
-"kitsune:lesshealth" = true
-
-[origins."fairytale:little_mermaid"]
-enabled = true
-"fairytale:sirens_call" = true
-"fairytale:ocean_mastery" = true
-"fairytale:water_dependency" = true
-"fairytale:no_boots" = true
-
-[origins."rpg_origins:brute"]
-enabled = true
-"rpg_origins:no_time_to_rest" = true
-"origins:no_shield" = true
-"origins:strong_arms" = true
-"rpg_origins:select_targets_strong" = true
-"rpg_origins:strong_arms_break_speed" = true
-"origins:natural_armor" = true
-"rpg_origins:select_targets_weak" = true
-
-[origins."tinkerer:orcish"]
-enabled = true
-"tinkerer:orcish" = true
-
-[origins."rpg_origins:mage"]
-enabled = true
-"rpg_origins:fastcure" = true
-"rpg_origins:untrained" = true
-"rpg_origins:fireball" = true
-"rpg_origins:water_walk" = true
-"rpg_origins:unwieldly" = true
-
-[origins."tinkerer:short"]
-enabled = true
-"tinkerer:short" = true
-
-[origins."tinkerer:sized"]
-enabled = true
-"tinkerer:sized" = true
-
-[origins."fairytale:jack_beanstalk"]
-enabled = true
-"fairytale:vine_ladder" = true
-"fairytale:giant_slayer" = true
-"fairytale:bean_planter" = true
-"fairytale:fall_resistance" = true
-"fairytale:height_weakness" = true
-
-[origins."rpg_origins:thief"]
-enabled = true
-"rpg_origins:speedy" = true
-"rpg_origins:stealthy" = true
-"origins:no_shield" = true
-"rpg_origins:better_unnoticed" = true
-"rpg_origins:uneasy_alliance" = true
-"rpg_origins:thefty" = true
-"rpg_origins:stealthy_damage" = true
-"rpg_origins:weak" = true
-
-[origins."fairytale:cinderella"]
-enabled = true
-"fairytale:graceful_step" = true
-"fairytale:enhanced_movement" = true
-"fairytale:dance_magic" = true
-"fairytale:enhanced_jump" = true
-"fairytale:no_boots" = true
-"fairytale:armor_vulnerability" = true
-"fairytale:water_slowness" = true
-
-[origins."tinkerer:impish"]
-enabled = true
-"tinkerer:impish" = true
-
-[origins."origins:human"]
-enabled = true
-
-[origins."rpg_origins:archer"]
-enabled = true
-"rpg_origins:marksman" = true
-"rpg_origins:untrained" = true
-"rpg_origins:inexperienced" = true
-"rpg_origins:resourceful" = true
-"rpg_origins:quiver" = true
-
-[origins."rpg_origins:bard"]
-enabled = true
-"rpg_origins:horn_effects/ponder" = true
-"rpg_origins:horn_effects/sing" = true
-"rpg_origins:horn_effects/feel" = true
-"rpg_origins:horn_effects/admire" = true
-"rpg_origins:horn_effects/call" = true
-"rpg_origins:horn_effects/dream" = true
-"rpg_origins:horn_effects/seek" = true
-"rpg_origins:horn_effects/yearn" = true
-"rpg_origins:musical_talent" = true
-"rpg_origins:musical_past" = true
-"rpg_origins:decoy" = true
-"origins:more_exhaustion" = true
-"rpg_origins:not_the_smartest" = true
-"rpg_origins:charismatic" = true
-"rpg_origins:charismatic_toggle" = true
-"rpg_origins:charismatic_switch_effect" = true
-"rpg_origins:charismatic_hunger" = true
-
-[origins."fairytale:sleeping_beauty"]
-enabled = true
-"fairytale:enhanced_regeneration" = true
-"fairytale:potion_duration_extension" = true
-"fairytale:bad_omen_resistance" = true
-"fairytale:sleep_deprivation" = true
-"fairytale:poison_vulnerability" = true
-"fairytale:sleep_deprived_slowness" = true
-
-[origins."thebotanist:thebotanist"]
-enabled = true
-"thebotanist:fragile_and_weak" = true
-"thebotanist:vegetarian" = true
-"thebotanist:fire_vulnerability" = true
-"thebotanist:heavy_equipment" = true
-"thebotanist:green_skin" = true
-"thebotanist:thorns_immunity" = true
-"thebotanist:thorny_body" = true
-"thebotanist:plentiful_crops" = true
-"thebotanist:regen_in_water" = true
-"thebotanist:dimension_backend" = true
-"thebotanist:garden_ability" = true
-"thebotanist:earthquake_ability" = true
-
-[origins."origins:shulk"]
-enabled = true
-"origins:shulker_inventory" = true
-"origins:natural_armor" = true
-"origins:strong_arms" = true
-"origins:strong_arms_break_speed" = true
-"origins:no_shield" = true
-"origins:more_exhaustion" = true
-
-[origins."tinkerer:taller"]
-enabled = true
-"tinkerer:taller" = true
-
-[origins."origins:merling"]
-enabled = true
-"origins:water_breathing" = true
-"origins:water_vision" = true
-"origins:aqua_affinity" = true
-"origins:swim_speed" = true
-"origins:like_water" = true
-"origins:aquatic" = true
-"origins:conduit_power_on_land" = true
-"origins:air_from_potions" = true
-
-[origins."tinkerer:oversize2"]
-enabled = true
-"tinkerer:oversize2" = true
-
-[origins."tinkerer:stout"]
-enabled = true
-"tinkerer:stout" = true
-
-[origins."tinkerer:oversize1"]
-enabled = true
-"tinkerer:oversize1" = true
-
-[origins."origins:arachnid"]
-enabled = true
-"origins:climbing" = true
-"origins:master_of_webs" = true
-"origins:carnivore" = true
-"origins:fragile" = true
-"origins:arthropod" = true
-
-[origins."tinkerer:demilanky"]
-enabled = true
-"tinkerer:demilanky" = true
-
-[origins."tinkerer:demistout"]
-enabled = true
-"tinkerer:demistout" = true
-
-[origins."tinkerer:oversize3"]
-enabled = true
-"tinkerer:oversize3" = true
-
-[origins."fairytale:big_bad_wolf"]
-enabled = true
-"fairytale:huffing_puffing" = true
-"fairytale:night_vision" = true
-"fairytale:pack_mentality" = true
-"fairytale:night_speed" = true
-"fairytale:fire_vulnerability" = true
-"fairytale:daylight_weakness" = true
-"fairytale:armor_restriction" = true
-
-[origins."tinkerer:semishort"]
-enabled = true
-"tinkerer:semishort" = true
-
-[origins."tinkerer:hemidemishort"]
-enabled = true
-"tinkerer:hemidemishort" = true
-
-[origins."tinkerer:unaffected"]
-enabled = true
-
-[origins."mario:mario"]
-enabled = true
-"mario:speed" = true
-"mario:walljump" = true
-"mario:land" = true
-"mario:oneup" = true
-"mario:jump" = true
-
-[origins."tinkerer:lanky"]
-enabled = true
-"tinkerer:lanky" = true
-
-[origins."tinkerer:tall"]
-enabled = true
-"tinkerer:tall" = true
-
-[origins."fairytale:minotaur"]
-enabled = true
-"fairytale:bull_rush" = true
-"fairytale:enhanced_strength" = true
-"fairytale:tough_hide" = true
-"fairytale:enhanced_jump" = true
-"fairytale:open_space_vulnerability" = true
-"fairytale:slow_movement" = true
-"fairytale:ranged_restriction" = true
-"fairytale:slow_swimmer" = true
-"fairytale:increased_hunger" = true
-"fairytale:large_frame" = true
-
-[origins."create_automaton:extras/cover"]
-enabled = true
-
-[origins."create_automaton:brass/crafter"]
-enabled = true
-"create_automaton:brass/crafting/crafter" = true
-
-[origins."create_automaton:copper/valve"]
-enabled = true
-"create_automaton:copper/valve/depressure" = true
-
-[origins."create_automaton:andesite/press"]
-enabled = true
-"create_automaton:andesite/press/press" = true
-"create_automaton:andesite/press/damage" = true
-"create_automaton:andesite/press/slow-attack" = true
-
-[origins."create_automaton:brass/cannon"]
-enabled = true
-"create_automaton:brass/cannon/shoot" = true
-"create_automaton:brass/cannon/potato-diet" = true
-
-[origins."create_automaton:extras/seat"]
-enabled = true
-"create_automaton:extras/seat" = true
-
-[origins."create_automaton:copper/tank"]
-enabled = true
-"create_automaton:copper/tank/intake" = true
-"create_automaton:copper/tank/pour" = true
-"create_automaton:copper/tank/cobblestone" = true
-
-[origins."create_automaton:extras/clock"]
-enabled = true
-"create_automaton:extras/clock" = true
-
-[origins."create_automaton:andesite/toolbox"]
-enabled = true
-"create_automaton:andesite/toolbox/toolbox" = true
-"create_automaton:andesite/toolbox/no-stress" = true
-"create_automaton:andesite/toolbox/less-hp" = true
-
-[origins."create_automaton:brass/blaze"]
-enabled = true
-"create_automaton:brass/blaze/smelt" = true
-"create_automaton:brass/blaze/fire-resist" = true
-"create_automaton:brass/blaze/extinguish" = true
-
-[origins."create_automaton:copper/engine"]
-enabled = true
-"create_automaton:copper/engine/destress" = true
-"create_automaton:copper/engine/no-yellow" = true
-
-[origins."create_automaton:copper/whistle"]
-enabled = true
-"create_automaton:copper/whistle/call" = true
-"create_automaton:copper/whistle/battle-cry" = true
-"create_automaton:copper/whistle/vulnerable" = true
-
-[origins."create_automaton:andesite/wrench"]
-enabled = true
-"create_automaton:andesite/wrench/heal" = true
-"create_automaton:andesite/wrench/no-self-repair" = true
-
-[origins."create_automaton:andesite/crank"]
-enabled = true
-"create_automaton:andesite/crank/crank" = true
-"create_automaton:andesite/crank/friendly-help" = true
-
-[origins."create_automaton:brass/arm"]
-enabled = true
-"create_automaton:brass/arm/reach" = true
-"origins:no_shield" = true
-
-[origins."create_automaton:extras/flywheel"]
-enabled = true
-"create_automaton:extras/flywheel" = true
-
-[origins."create_automaton:extras/stressometer"]
-enabled = true
-"create_automaton:extras/stressometer" = true
-
-[origins."create_automaton:andesite/drill"]
-enabled = true
-"create_automaton:andesite/drill/drill" = true
-"create_automaton:andesite/drill/efficiency" = true
-"create_automaton:andesite/drill/exhaust" = true
-
-[origins."create_automaton:brass/casing"]
-enabled = true
-
-[origins."create_automaton:copper/casing"]
-enabled = true
-
-[origins."create_automaton:extras/clutch"]
-enabled = true
-"create_automaton:extras/clutch" = true
-
-[origins."create_automaton:extras/speedometer"]
-enabled = true
-"create_automaton:extras/speedometer" = true
-
-[origins."create_automaton:extras/glue"]
-enabled = true
-"create_automaton:extras/glue" = true
-
-[origins."create_automaton:andesite/fan"]
-enabled = true
-"create_automaton:andesite/fan/hover" = true
-"create_automaton:andesite/fan/speed" = true
-"create_automaton:andesite/fan/knockback" = true
-
-[origins."create_automaton:copper/helmet"]
-enabled = true
-"create_automaton:copper/helmet/dive" = true
-"create_automaton:copper/helmet/heavy-suit" = true
-
-[origins."create_automaton:andesite/ejector"]
-enabled = true
-"create_automaton:andesite/ejector/launch" = true
-"create_automaton:andesite/ejector/soft-landing" = true
-
-[origins."create_automaton:brass/display-link"]
-enabled = true
-"create_automaton:brass/display/info" = true
-"create_automaton:brass/display/nightvision" = true
-
-[origins."create_automaton:extras/casing"]
-enabled = true
-"create_automaton:extras/train-casing" = true
-
-[origins."create_automaton:andesite/casing"]
-enabled = true
-
-[origins."create_automaton:extras/vault"]
-enabled = true
-"create_automaton:extras/vault" = true
-
-[origins."create_automaton:automaton"]
-enabled = true
-"create_automaton:stress" = true
-"create_automaton:iron-clad" = true
-"create_automaton:machinery" = true
-"create_automaton:self-repair" = true
-"create_automaton:machine-like" = true
-"create_automaton:fuel" = true
-
-[origins."create_automaton:brass/speed-controller"]
-enabled = true
-"create_automaton:brass/speed-controller/speed" = true
-"create_automaton:brass/speed-controller/jump" = true
-"create_automaton:brass/speed-controller/shock" = true
+	[origins."origins:enderian"]
+		enabled = true
+		"origins:throw_ender_pearl" = true
+		"origins:water_vulnerability" = true
+		"origins:pumpkin_hate" = true
+		"origins:extra_reach" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+
+	[origins."kitsune:kitsunewhite"]
+		enabled = true
+		"kitsune:speed" = true
+		"kitsune:sneaky" = true
+		"kitsune:berry" = true
+		"kitsune:foxy" = true
+		"kitsune:ancientwhite" = true
+		"kitsune:lesshealth" = true
+
+	[origins."tinkerer:demishort"]
+		enabled = true
+		"tinkerer:demishort" = true
+
+	[origins."origins:feline"]
+		enabled = true
+		"origins:fall_immunity" = true
+		"origins:sprint_jump" = true
+		"origins:velvet_paws" = true
+		"origins:nine_lives" = true
+		"origins:weak_arms" = true
+		"origins:scare_creepers" = true
+		"origins:cat_vision" = true
+
+	[origins."origins:elytrian"]
+		enabled = true
+		"origins:elytra" = true
+		"origins:launch_into_air" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:claustrophobia" = true
+		"origins:more_kinetic_damage" = true
+
+	[origins."fairytale:red_riding_hood"]
+		enabled = true
+		"fairytale:forest_stealth" = true
+		"fairytale:wolf_detection" = true
+		"fairytale:enhanced_forest_speed" = true
+		"fairytale:village_hero" = true
+		"fairytale:night_vulnerability" = true
+		"fairytale:axe_proficiency" = true
+		"fairytale:no_wolf_taming" = true
+
+	[origins."rpg_origins:cleric"]
+		enabled = true
+		"rpg_origins:villagefriendly" = true
+		"rpg_origins:untrained" = true
+		"rpg_origins:brewer_jumpboost" = true
+		"rpg_origins:brewer_speed" = true
+		"rpg_origins:brewer_strength" = true
+		"rpg_origins:brewer_regeneration" = true
+		"rpg_origins:heal_pool" = true
+		"rpg_origins:forgivable" = true
+		"rpg_origins:pure" = true
+		"rpg_origins:pure_color" = true
+		"rpg_origins:pure_shake" = true
+		"rpg_origins:one_with_the_world" = true
+
+	[origins."tinkerer:tallest"]
+		enabled = true
+		"tinkerer:tallest" = true
+
+	[origins."origins:phantom"]
+		enabled = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:phasing" = true
+		"origins:invisibility" = true
+		"origins:burn_in_daylight" = true
+		"origins:hunger_over_time" = true
+		"origins:fragile" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."tinkerer:demitall"]
+		enabled = true
+		"tinkerer:demitall" = true
+
+	[origins."rpg_origins:knight"]
+		enabled = true
+		"rpg_origins:durable" = true
+		"origins:more_exhaustion" = true
+		"rpg_origins:prepared" = true
+		"rpg_origins:trained" = true
+
+	[origins."origins:blazeborn"]
+		enabled = true
+		"origins:fire_immunity" = true
+		"origins:nether_spawn" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:damage_from_snowballs" = true
+		"origins:damage_from_potions" = true
+
+	[origins."origins:avian"]
+		enabled = true
+		"origins:slow_falling" = true
+		"origins:fresh_air" = true
+		"origins:like_air" = true
+		"origins:tailwind" = true
+		"origins:lay_eggs" = true
+		"origins:vegetarian" = true
+
+	[origins."fairytale:frog_prince"]
+		enabled = true
+		"fairytale:amphibian_abilities" = true
+		"fairytale:water_walking" = true
+		"fairytale:underwater_vision" = true
+		"fairytale:hot_biome_vulnerability" = true
+		"fairytale:no_chestplate" = true
+		"fairytale:land_weakness" = true
+
+	[origins."kitsune:kitsunered"]
+		enabled = true
+		"kitsune:speed" = true
+		"kitsune:sneaky" = true
+		"kitsune:berry" = true
+		"kitsune:foxy" = true
+		"kitsune:ancientred" = true
+		"kitsune:lesshealth" = true
+
+	[origins."fairytale:little_mermaid"]
+		enabled = true
+		"fairytale:sirens_call" = true
+		"fairytale:ocean_mastery" = true
+		"fairytale:water_dependency" = true
+		"fairytale:no_boots" = true
+
+	[origins."rpg_origins:brute"]
+		enabled = true
+		"rpg_origins:no_time_to_rest" = true
+		"origins:no_shield" = true
+		"origins:strong_arms" = true
+		"rpg_origins:select_targets_strong" = true
+		"rpg_origins:strong_arms_break_speed" = true
+		"origins:natural_armor" = true
+		"rpg_origins:select_targets_weak" = true
+
+	[origins."tinkerer:orcish"]
+		enabled = true
+		"tinkerer:orcish" = true
+
+	[origins."rpg_origins:mage"]
+		enabled = true
+		"rpg_origins:fastcure" = true
+		"rpg_origins:untrained" = true
+		"rpg_origins:fireball" = true
+		"rpg_origins:water_walk" = true
+		"rpg_origins:unwieldly" = true
+
+	[origins."tinkerer:short"]
+		enabled = true
+		"tinkerer:short" = true
+
+	[origins."tinkerer:sized"]
+		enabled = true
+		"tinkerer:sized" = true
+
+	[origins."fairytale:jack_beanstalk"]
+		enabled = true
+		"fairytale:vine_ladder" = true
+		"fairytale:giant_slayer" = true
+		"fairytale:bean_planter" = true
+		"fairytale:fall_resistance" = true
+		"fairytale:height_weakness" = true
+
+	[origins."rpg_origins:thief"]
+		enabled = true
+		"rpg_origins:speedy" = true
+		"rpg_origins:stealthy" = true
+		"origins:no_shield" = true
+		"rpg_origins:better_unnoticed" = true
+		"rpg_origins:uneasy_alliance" = true
+		"rpg_origins:thefty" = true
+		"rpg_origins:stealthy_damage" = true
+		"rpg_origins:weak" = true
+
+	[origins."fairytale:cinderella"]
+		enabled = true
+		"fairytale:graceful_step" = true
+		"fairytale:enhanced_movement" = true
+		"fairytale:dance_magic" = true
+		"fairytale:enhanced_jump" = true
+		"fairytale:no_boots" = true
+		"fairytale:armor_vulnerability" = true
+		"fairytale:water_slowness" = true
+
+	[origins."tinkerer:impish"]
+		enabled = true
+		"tinkerer:impish" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."rpg_origins:archer"]
+		enabled = true
+		"rpg_origins:marksman" = true
+		"rpg_origins:untrained" = true
+		"rpg_origins:inexperienced" = true
+		"rpg_origins:resourceful" = true
+		"rpg_origins:quiver" = true
+
+	[origins."rpg_origins:bard"]
+		enabled = true
+		"rpg_origins:horn_effects/ponder" = true
+		"rpg_origins:horn_effects/sing" = true
+		"rpg_origins:horn_effects/feel" = true
+		"rpg_origins:horn_effects/admire" = true
+		"rpg_origins:horn_effects/call" = true
+		"rpg_origins:horn_effects/dream" = true
+		"rpg_origins:horn_effects/seek" = true
+		"rpg_origins:horn_effects/yearn" = true
+		"rpg_origins:musical_talent" = true
+		"rpg_origins:musical_past" = true
+		"rpg_origins:decoy" = true
+		"origins:more_exhaustion" = true
+		"rpg_origins:not_the_smartest" = true
+		"rpg_origins:charismatic" = true
+		"rpg_origins:charismatic_toggle" = true
+		"rpg_origins:charismatic_switch_effect" = true
+		"rpg_origins:charismatic_hunger" = true
+
+	[origins."fairytale:sleeping_beauty"]
+		enabled = true
+		"fairytale:enhanced_regeneration" = true
+		"fairytale:potion_duration_extension" = true
+		"fairytale:bad_omen_resistance" = true
+		"fairytale:sleep_deprivation" = true
+		"fairytale:poison_vulnerability" = true
+		"fairytale:sleep_deprived_slowness" = true
+
+	[origins."thebotanist:thebotanist"]
+		enabled = true
+		"thebotanist:fragile_and_weak" = true
+		"thebotanist:vegetarian" = true
+		"thebotanist:fire_vulnerability" = true
+		"thebotanist:heavy_equipment" = true
+		"thebotanist:green_skin" = true
+		"thebotanist:thorns_immunity" = true
+		"thebotanist:thorny_body" = true
+		"thebotanist:plentiful_crops" = true
+		"thebotanist:regen_in_water" = true
+		"thebotanist:dimension_backend" = true
+		"thebotanist:garden_ability" = true
+		"thebotanist:earthquake_ability" = true
+
+	[origins."origins:shulk"]
+		enabled = true
+		"origins:shulker_inventory" = true
+		"origins:natural_armor" = true
+		"origins:strong_arms" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+
+	[origins."tinkerer:taller"]
+		enabled = true
+		"tinkerer:taller" = true
+
+	[origins."origins:merling"]
+		enabled = true
+		"origins:water_breathing" = true
+		"origins:water_vision" = true
+		"origins:aqua_affinity" = true
+		"origins:swim_speed" = true
+		"origins:like_water" = true
+		"origins:aquatic" = true
+		"origins:conduit_power_on_land" = true
+		"origins:air_from_potions" = true
+
+	[origins."tinkerer:oversize2"]
+		enabled = true
+		"tinkerer:oversize2" = true
+
+	[origins."tinkerer:stout"]
+		enabled = true
+		"tinkerer:stout" = true
+
+	[origins."tinkerer:oversize1"]
+		enabled = true
+		"tinkerer:oversize1" = true
+
+	[origins."origins:arachnid"]
+		enabled = true
+		"origins:climbing" = true
+		"origins:master_of_webs" = true
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+
+	[origins."tinkerer:demilanky"]
+		enabled = true
+		"tinkerer:demilanky" = true
+
+	[origins."tinkerer:demistout"]
+		enabled = true
+		"tinkerer:demistout" = true
+
+	[origins."tinkerer:oversize3"]
+		enabled = true
+		"tinkerer:oversize3" = true
+
+	[origins."fairytale:big_bad_wolf"]
+		enabled = true
+		"fairytale:huffing_puffing" = true
+		"fairytale:night_vision" = true
+		"fairytale:pack_mentality" = true
+		"fairytale:night_speed" = true
+		"fairytale:fire_vulnerability" = true
+		"fairytale:daylight_weakness" = true
+		"fairytale:armor_restriction" = true
+
+	[origins."tinkerer:semishort"]
+		enabled = true
+		"tinkerer:semishort" = true
+
+	[origins."tinkerer:hemidemishort"]
+		enabled = true
+		"tinkerer:hemidemishort" = true
+
+	[origins."tinkerer:unaffected"]
+		enabled = true
+
+	[origins."mario:mario"]
+		enabled = true
+		"mario:speed" = true
+		"mario:walljump" = true
+		"mario:land" = true
+		"mario:oneup" = true
+		"mario:jump" = true
+
+	[origins."tinkerer:lanky"]
+		enabled = true
+		"tinkerer:lanky" = true
+
+	[origins."tinkerer:tall"]
+		enabled = true
+		"tinkerer:tall" = true
+
+	[origins."fairytale:minotaur"]
+		enabled = true
+		"fairytale:bull_rush" = true
+		"fairytale:enhanced_strength" = true
+		"fairytale:tough_hide" = true
+		"fairytale:enhanced_jump" = true
+		"fairytale:open_space_vulnerability" = true
+		"fairytale:slow_movement" = true
+		"fairytale:ranged_restriction" = true
+		"fairytale:slow_swimmer" = true
+		"fairytale:increased_hunger" = true
+		"fairytale:large_frame" = true
+
+	[origins."create_automaton:extras/cover"]
+		enabled = true
+
+	[origins."create_automaton:brass/crafter"]
+		enabled = true
+		"create_automaton:brass/crafting/crafter" = true
+
+	[origins."create_automaton:copper/valve"]
+		enabled = true
+		"create_automaton:copper/valve/depressure" = true
+
+	[origins."create_automaton:andesite/press"]
+		enabled = true
+		"create_automaton:andesite/press/press" = true
+		"create_automaton:andesite/press/damage" = true
+		"create_automaton:andesite/press/slow-attack" = true
+
+	[origins."create_automaton:brass/cannon"]
+		enabled = true
+		"create_automaton:brass/cannon/shoot" = true
+		"create_automaton:brass/cannon/potato-diet" = true
+
+	[origins."create_automaton:extras/seat"]
+		enabled = true
+		"create_automaton:extras/seat" = true
+
+	[origins."create_automaton:copper/tank"]
+		enabled = true
+		"create_automaton:copper/tank/intake" = true
+		"create_automaton:copper/tank/pour" = true
+		"create_automaton:copper/tank/cobblestone" = true
+
+	[origins."create_automaton:extras/clock"]
+		enabled = true
+		"create_automaton:extras/clock" = true
+
+	[origins."create_automaton:andesite/toolbox"]
+		enabled = true
+		"create_automaton:andesite/toolbox/toolbox" = true
+		"create_automaton:andesite/toolbox/no-stress" = true
+		"create_automaton:andesite/toolbox/less-hp" = true
+
+	[origins."create_automaton:brass/blaze"]
+		enabled = true
+		"create_automaton:brass/blaze/smelt" = true
+		"create_automaton:brass/blaze/fire-resist" = true
+		"create_automaton:brass/blaze/extinguish" = true
+
+	[origins."create_automaton:copper/engine"]
+		enabled = true
+		"create_automaton:copper/engine/destress" = true
+		"create_automaton:copper/engine/no-yellow" = true
+
+	[origins."create_automaton:copper/whistle"]
+		enabled = true
+		"create_automaton:copper/whistle/call" = true
+		"create_automaton:copper/whistle/battle-cry" = true
+		"create_automaton:copper/whistle/vulnerable" = true
+
+	[origins."create_automaton:andesite/wrench"]
+		enabled = true
+		"create_automaton:andesite/wrench/heal" = true
+		"create_automaton:andesite/wrench/no-self-repair" = true
+
+	[origins."create_automaton:andesite/crank"]
+		enabled = true
+		"create_automaton:andesite/crank/crank" = true
+		"create_automaton:andesite/crank/friendly-help" = true
+
+	[origins."create_automaton:brass/arm"]
+		enabled = true
+		"create_automaton:brass/arm/reach" = true
+		"origins:no_shield" = true
+
+	[origins."create_automaton:extras/flywheel"]
+		enabled = true
+		"create_automaton:extras/flywheel" = true
+
+	[origins."create_automaton:extras/stressometer"]
+		enabled = true
+		"create_automaton:extras/stressometer" = true
+
+	[origins."create_automaton:andesite/drill"]
+		enabled = true
+		"create_automaton:andesite/drill/drill" = true
+		"create_automaton:andesite/drill/efficiency" = true
+		"create_automaton:andesite/drill/exhaust" = true
+
+	[origins."create_automaton:brass/casing"]
+		enabled = true
+
+	[origins."create_automaton:copper/casing"]
+		enabled = true
+
+	[origins."create_automaton:extras/clutch"]
+		enabled = true
+		"create_automaton:extras/clutch" = true
+
+	[origins."create_automaton:extras/speedometer"]
+		enabled = true
+		"create_automaton:extras/speedometer" = true
+
+	[origins."create_automaton:extras/glue"]
+		enabled = true
+		"create_automaton:extras/glue" = true
+
+	[origins."create_automaton:andesite/fan"]
+		enabled = true
+		"create_automaton:andesite/fan/hover" = true
+		"create_automaton:andesite/fan/speed" = true
+		"create_automaton:andesite/fan/knockback" = true
+
+	[origins."create_automaton:copper/helmet"]
+		enabled = true
+		"create_automaton:copper/helmet/dive" = true
+		"create_automaton:copper/helmet/heavy-suit" = true
+
+	[origins."create_automaton:andesite/ejector"]
+		enabled = true
+		"create_automaton:andesite/ejector/launch" = true
+		"create_automaton:andesite/ejector/soft-landing" = true
+
+	[origins."create_automaton:brass/display-link"]
+		enabled = true
+		"create_automaton:brass/display/info" = true
+		"create_automaton:brass/display/nightvision" = true
+
+	[origins."create_automaton:extras/casing"]
+		enabled = true
+		"create_automaton:extras/train-casing" = true
+
+	[origins."create_automaton:andesite/casing"]
+		enabled = true
+
+	[origins."create_automaton:extras/vault"]
+		enabled = true
+		"create_automaton:extras/vault" = true
+
+	[origins."create_automaton:automaton"]
+		enabled = true
+		"create_automaton:stress" = true
+		"create_automaton:iron-clad" = true
+		"create_automaton:machinery" = true
+		"create_automaton:self-repair" = true
+		"create_automaton:machine-like" = true
+		"create_automaton:fuel" = true
+
+	[origins."create_automaton:brass/speed-controller"]
+		enabled = true
+		"create_automaton:brass/speed-controller/speed" = true
+		"create_automaton:brass/speed-controller/jump" = true
+		"create_automaton:brass/speed-controller/shock" = true
+

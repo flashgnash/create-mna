@@ -44,3 +44,4 @@ maxWireLength = 16
 #Maximum motor SU multiplier
 #Range: 0.0 ~ 1.7976931348623157E308
 motorSuMultiplier = 1.0
+

@@ -51,3 +51,4 @@ mobRadarRange = 32
 #Cooldown time for the Mob Radar (Default value = 200)
 #Range: > 0
 mobRadarCooldown = 200
+

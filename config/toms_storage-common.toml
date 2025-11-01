@@ -11,3 +11,4 @@ multiblockInv = [""]
 blockedMods = [""]
 #List of block ids ignored by the inventory connector
 blockedBlocks = [""]
+
