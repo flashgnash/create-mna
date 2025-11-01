@@ -593,6 +593,11 @@ hash = "968755566d9f09f9f881338509a0538d4bb69cf4fafee72af08f35a2aec42ba4"
 metafile = true
 
 [[files]]
+file = "mods/create-clockwork.pw.toml"
+hash = "c636979fe6705452c913fecba3dd590c0feb83ddbccdf6e8ec5e921c9681c769"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery1.20.1_v1.1.0.jar"
 hash = "b779516864e1311142853a03d8ea7923532c3ab1232de8446c70fc63deb97ece"
 
