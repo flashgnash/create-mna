@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".envrc"
+hash = "1d26c74fd25a4c3dbb09e029fc609588da499fd4af2a41c88f6316c7f8c54cf1"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "095b842f06853134bd65548f9322202817e0acef606ad702a025bd066d223fa4"
 
@@ -421,13 +425,17 @@ file = "config/xaeroworldmap.txt"
 hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
+file = "flake.lock"
+hash = "c45a86fb427e6174d8223849009d9b584ba460804f43c0b5d17db2aac0b85369"
+
+[[files]]
+file = "flake.nix"
+hash = "dde7a6053d301323754c71b8948e95e6c8bfe1a31f70c4140021452175ab4aff"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "b2ed80a95132518a9a6d52a487a7ddcc5b73904a335af5274d912c78fda3a649"
 metafile = true
-
-[[files]]
-file = "mods/Connector-1.0.0-beta.46+1.20.1.jar.disabled"
-hash = "79d58fd7ced77df600eefc927adbbd8e217c2d6b0778c17aa8b27756703145ac"
 
 [[files]]
 file = "mods/Old Infrastructure 1.20.1 1.2.0.jar"
@@ -518,11 +526,6 @@ metafile = true
 [[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
-metafile = true
-
-[[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "4ef810bfa9f689de8effb67b657c11b678043091ce15e10c4e54bff084241917"
 metafile = true
 
 [[files]]
@@ -732,11 +735,6 @@ file = "mods/forestry-1.20.1-2.6.2.jar"
 hash = "23b8ed5de26be69f5324036121c097b4b50ac01680f56ca6e65304f9a453f429"
 
 [[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "11b64d5f9ccb98f3d4d882a47554d5d0cd1c22472ab16e6df5dbf96a5f25e9e0"
-metafile = true
-
-[[files]]
 file = "mods/framework.pw.toml"
 hash = "376f8a190f00bd120193d7a665ebe1b03dfe329cc395f7d944f7216c1182c84d"
 metafile = true
@@ -927,11 +925,6 @@ hash = "37eddc9a6e46af2cea7bbc5751aa5c87cde50b4e9fe7b46d9a4da90660245e58"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "08df98fe6ca70335ac9d364232bbf4a2bfc8d331cf0fac805a09741b19e8756e"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
@@ -939,11 +932,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
-metafile = true
-
-[[files]]
-file = "mods/tinker-delight.pw.toml"
-hash = "7fe3c496758e54f1038be900a0b8fd31621c108a19bdcb8392c7fb2d52ad0d7f"
 metafile = true
 
 [[files]]
