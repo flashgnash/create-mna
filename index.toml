@@ -766,6 +766,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "b95ff533156a0469a1419871a87523cdfdf00d7321e25233f16a758b910e3d98"
+metafile = true
+
+[[files]]
 file = "mods/fairytale-origins.pw.toml"
 hash = "742d191dd389d59755032071f7cb3c57cd107a1f1cb88c4aa4603944562a1097"
 metafile = true
@@ -1085,3 +1090,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ae5ba701a42d2ada2eaf14546909b4605c15154a0fd4b6c0f48dd0997dcf9d0b"
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "134b3cee2ac2b5c5b9d02d8d70e8e4ba32c7c241f5bc51209521831a7c254e22"
+metafile = true
