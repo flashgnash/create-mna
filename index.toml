@@ -1178,11 +1178,6 @@ hash = "7fd322bb6f0df02208a91692500ba35adda0887e9fa78d62e4c199063f5b7c69"
 metafile = true
 
 [[files]]
-file = "mods/vs-addition.pw.toml"
-hash = "49d21794c214717501a657eef4eca5a6486e183781b1aaec9af11a55b03077d0"
-metafile = true
-
-[[files]]
 file = "mods/vs-chunkloader.pw.toml"
 hash = "a9dfc9321c5c749af248376c04f423afe7ca09002b7e8435996410c73b10f100"
 metafile = true
