@@ -681,6 +681,11 @@ hash = "6f3776e918248436a05045c383dbc5bfda9fd22a11fdae00024337a8e1148135"
 metafile = true
 
 [[files]]
+file = "mods/create-o-plenty.pw.toml"
+hash = "df02a15b1274f4aa80bbe53c8970156e06f939befc5c3626e470db04ea9792cc"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
 metafile = true
@@ -1195,6 +1200,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "ae5ba701a42d2ada2eaf14546909b4605c15154a0fd4b6c0f48dd0997dcf9d0b"
+
+[[files]]
+file = "resourcepacks/biomes-o-plenty-x-farmers-delight-bark-cutting.pw.toml"
+hash = "e79e46bd5f8edee6fe76e7a610e0a7b5a79801fe46713b6a996e6a125358dd67"
+metafile = true
 
 [[files]]
 file = "servers.dat"
