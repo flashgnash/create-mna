@@ -1,0 +1,13 @@
+name = "Clockwork Additions"
+filename = "ClockworkAdditions-forge-1.20.1-0.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cjtNBuoS/versions/DMppmhST/ClockworkAdditions-forge-1.20.1-0.0.7.jar"
+hash-format = "sha512"
+hash = "be4e44c83dfe70448cb2dfb36d0ee8cdcf28ec1bedc2499f7f2c7c3c6ac3090ea520e0177ecfee86295cf04b1f0531702b7aaf00c385ebdc62e275d6c7eebc17"
+
+[update]
+[update.modrinth]
+mod-id = "cjtNBuoS"
+version = "DMppmhST"
