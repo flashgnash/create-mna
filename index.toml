@@ -681,11 +681,6 @@ hash = "6f3776e918248436a05045c383dbc5bfda9fd22a11fdae00024337a8e1148135"
 metafile = true
 
 [[files]]
-file = "mods/create-o-plenty.pw.toml"
-hash = "df02a15b1274f4aa80bbe53c8970156e06f939befc5c3626e470db04ea9792cc"
-metafile = true
-
-[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "df7d19f604ff0661692e1dd14ea4d70d534bd960e536acb9a693b1ec7792433b"
 metafile = true
