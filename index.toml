@@ -559,6 +559,11 @@ hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
+file = "mods/clockwork-additions.pw.toml"
+hash = "7e0d8428cd81954d9f9b8d748d3b3c3c9b4e25f3c0e056355b710d7887ea4673"
+metafile = true
+
+[[files]]
 file = "mods/codechicken-lib-1-8.pw.toml"
 hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
