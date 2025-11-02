@@ -1,0 +1,13 @@
+name = "VS ChunkLoader"
+filename = "VSChunkLoader-forge-1.20.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V4eP65JX/versions/XFBjQOnC/VSChunkLoader-forge-1.20.1-1.4.0.jar"
+hash-format = "sha512"
+hash = "fcfd147872144fd18990ef4efe9e72ef2e7e5f4541dc83b62493aba969da3634d9be2583c2bd59bd7afb03e5dd26e509c082e1389c49eb8574e18c56107c7477"
+
+[update]
+[update.modrinth]
+mod-id = "V4eP65JX"
+version = "XFBjQOnC"

@@ -705,6 +705,11 @@ file = "mods/create-structures-0.1.1-1.20.1-FORGE.jar"
 hash = "6f1c57dc200cce4e7a9d158b3d6895c108637f518060377f6bc5bc52ad8d4aab"
 
 [[files]]
+file = "mods/create-structures-arise.pw.toml"
+hash = "aa918c978fa7ded1e6fb920d408c97e174c9341c0ebaf9a3f7437d396c10d161"
+metafile = true
+
+[[files]]
 file = "mods/create-track-map-forge.pw.toml"
 hash = "53d31e746ba14fcc5cc7e9f5a318c6e0c0aed0a7dcc99f34612e28525c5a16b8"
 metafile = true
@@ -1118,8 +1123,38 @@ hash = "9e67e4aa744c0b51ccdede40cba758ff34b18900ceeafc8459f23a8b147d6d12"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-relogs.pw.toml"
+hash = "1bc5457c81fd6db2f13432a16682d8c4177a930b04fd0404368ae0b185c931f9"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-sails.pw.toml"
+hash = "b8c126bb852faa3b1301f7b132f8682b7a43c064ec09f058ada677db567bc23d"
+metafile = true
+
+[[files]]
 file = "mods/valkyrien-skies.pw.toml"
 hash = "15095b0df6864e37ef684b8ea8eaa392abd4f873c605020336b38b1fac91e1ad"
+metafile = true
+
+[[files]]
+file = "mods/vlib.pw.toml"
+hash = "4a144b01a621ec0666e2d437f30363202eac7d3fc51b986127c38217148757e6"
+metafile = true
+
+[[files]]
+file = "mods/vmod.pw.toml"
+hash = "7fd322bb6f0df02208a91692500ba35adda0887e9fa78d62e4c199063f5b7c69"
+metafile = true
+
+[[files]]
+file = "mods/vs-chunkloader.pw.toml"
+hash = "a9dfc9321c5c749af248376c04f423afe7ca09002b7e8435996410c73b10f100"
+metafile = true
+
+[[files]]
+file = "mods/vstuff.pw.toml"
+hash = "649e4674972f523c3d19158611f14ecdced000249211c46ef91730c78bf65a1a"
 metafile = true
 
 [[files]]
