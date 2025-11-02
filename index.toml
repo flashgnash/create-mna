@@ -1183,6 +1183,10 @@ hash = "a9dfc9321c5c749af248376c04f423afe7ca09002b7e8435996410c73b10f100"
 metafile = true
 
 [[files]]
+file = "mods/vs_addition-1.20.1-0.0.10+aa958d43e6.jar"
+hash = "e6515939450a3faa3dd25dd698492bf4153f0878af99c3eb42e58fa722299bae"
+
+[[files]]
 file = "mods/vstuff.pw.toml"
 hash = "649e4674972f523c3d19158611f14ecdced000249211c46ef91730c78bf65a1a"
 metafile = true
