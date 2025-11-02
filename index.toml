@@ -574,6 +574,11 @@ hash = "cdb4a78d4bb572501108461cda1d4bfabfb55b0984e5554955fb4797de657778"
 metafile = true
 
 [[files]]
+file = "mods/crawl-on-demand.pw.toml"
+hash = "71978099bab5a59af99ad64f1d684ee7c89262795a538ce9b91d9e2456971d05"
+metafile = true
+
+[[files]]
 file = "mods/create-additions-synthetics.pw.toml"
 hash = "d729d2960229c58fb7bc5e04fd32df60d4bc4ca11ec4c400615fa30e3f115e83"
 metafile = true
