@@ -1179,7 +1179,7 @@ metafile = true
 
 [[files]]
 file = "mods/vs-addition.pw.toml"
-hash = "f7d7d682f460c399b6cce9c1a20049fb182487bbae2081f739e74b295ac7c666"
+hash = "49d21794c214717501a657eef4eca5a6486e183781b1aaec9af11a55b03077d0"
 metafile = true
 
 [[files]]
