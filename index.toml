@@ -627,6 +627,11 @@ hash = "db975ac6f7723fa6230f64ce45b0986774437c4429237f62299e3de71b32b372"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "23dc3517bb479f4a7275bedc75ea45362aef0ff1b240d8cd0fde2fd152032cdf"
+metafile = true
+
+[[files]]
 file = "mods/create-escalated.pw.toml"
 hash = "fa08fa31e2740c16d5773cfbfe3f22846f3ce2c8b4623071dc109b7873068bb2"
 metafile = true
@@ -1170,6 +1175,11 @@ metafile = true
 [[files]]
 file = "mods/vmod.pw.toml"
 hash = "7fd322bb6f0df02208a91692500ba35adda0887e9fa78d62e4c199063f5b7c69"
+metafile = true
+
+[[files]]
+file = "mods/vs-addition.pw.toml"
+hash = "a98d504853088be7244fb292a1ccc8cdd0dbe2bf289ab4e420328122ac58d58e"
 metafile = true
 
 [[files]]
