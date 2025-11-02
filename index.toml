@@ -507,6 +507,11 @@ hash = "737ed88644dfdcad286183bfb1856878fc2bc0682739d514837cf01aa28fc017"
 metafile = true
 
 [[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "0e4cace0378d5b9de13402684df047ae862833249b098924a295eefc9788e703"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
 metafile = true
@@ -816,6 +821,11 @@ hash = "0d285af302596718fb74920b23c2eceff1b54fe06d107aad51346aabcebfed3d"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore.pw.toml"
 hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
@@ -916,6 +926,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "47b9410704efc0f8cb3b34a87d7019a013850775afe464e887b19ecf45eac0d3"
 metafile = true
 
 [[files]]
