@@ -781,6 +781,11 @@ hash = "b95ff533156a0469a1419871a87523cdfdf00d7321e25233f16a758b910e3d98"
 metafile = true
 
 [[files]]
+file = "mods/eureka.pw.toml"
+hash = "d87a2ef4b990dc9d189ca15e07394e82266773dee1e3c4e5b4d8b662d56ed03b"
+metafile = true
+
+[[files]]
 file = "mods/fairytale-origins.pw.toml"
 hash = "742d191dd389d59755032071f7cb3c57cd107a1f1cb88c4aa4603944562a1097"
 metafile = true
