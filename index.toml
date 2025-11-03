@@ -575,7 +575,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-network.pw.toml"
-hash = "fdf6907c29fa9ded3d3ab3ce04853f59256978dbfefe6af8618c492677c875e2"
+hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
 metafile = true
 
 [[files]]
@@ -1164,7 +1164,7 @@ metafile = true
 
 [[files]]
 file = "mods/useful-slime.pw.toml"
-hash = "24ddefc0a5d0e2fdbe82fa9abfc90de118edf3393c29c68806cb852c820fd61b"
+hash = "2bebb9b26330931613afc70f9d2c1e58fad667a75b9553ae5c21a9926594a3c3"
 metafile = true
 
 [[files]]
