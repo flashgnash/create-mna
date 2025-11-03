@@ -574,6 +574,11 @@ hash = "f88db7aef79947669ba4d736cc2f352a2269eb21770d5597d306c3017ea126dc"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "fdf6907c29fa9ded3d3ab3ce04853f59256978dbfefe6af8618c492677c875e2"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
 metafile = true
@@ -1100,6 +1105,11 @@ hash = "3db02c08bfe44685cc61ad8bff1a601261a71d0a9d70b14efb024cde1fac3fdf"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "2933becbb3d92753023401340d9c2152c60fb11aa1b17fbffd462b410346793a"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
 metafile = true
@@ -1150,6 +1160,11 @@ hash = "4193df63115798fa9b3b2a673aa96c33559c7ae97f812742e0c0d122f1923298"
 [[files]]
 file = "mods/trackwork.pw.toml"
 hash = "9e67e4aa744c0b51ccdede40cba758ff34b18900ceeafc8459f23a8b147d6d12"
+metafile = true
+
+[[files]]
+file = "mods/useful-slime.pw.toml"
+hash = "24ddefc0a5d0e2fdbe82fa9abfc90de118edf3393c29c68806cb852c820fd61b"
 metafile = true
 
 [[files]]
