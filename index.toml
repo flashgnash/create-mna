@@ -994,7 +994,7 @@ hash = "92e0fb86418891bc97d5e2cac1feec17633f89479e4c0afd29ae30c51092dd6d"
 
 [[files]]
 file = "mods/origins-forge.pw.toml"
-hash = "cb91a483997feae40c3edfc9d5a06dc44fdf2f562a62f065834e9e1a6a1c7f8f"
+hash = "736d3d09ea2fb87f8477f72d81a1f17b8ba6ad61a9cee9c122a37b2ccbdd62c9"
 metafile = true
 
 [[files]]
@@ -1006,6 +1006,11 @@ file = "mods/origins-mario-1.0.jar"
 hash = "7d739a9b6f71d1003a44a839d11f0dc8ac282355ebde9a9a8b6d7ff3436d159b"
 
 [[files]]
+file = "mods/origins-plus-plus.pw.toml"
+hash = "abdc75dce63a3a95bf1db412d4de39f5ab7ff0455caf5acfe9f01458e6e59008"
+metafile = true
+
+[[files]]
 file = "mods/origins-thebotanist-1.1+dimension.jar"
 hash = "d6346b3b6522608361ce5f4ce13813585ace7798f77b6c2720946da7b1171cdf"
 
@@ -1015,13 +1020,18 @@ hash = "6e6cf2415d0adb0b8c8357834186395693e32cb0ab7f31483323da48bfb7147a"
 metafile = true
 
 [[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "3ab8970e80d25686ebe4bf0747a96d116ab961ce6974aa815cc9fcbce5553b62"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
 metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "ff455d3439b8e4ffbf78dc1e8998c1b59200bd10c74c77f9fe90e98f606e0f0d"
+hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
 
 [[files]]
