@@ -791,6 +791,11 @@ hash = "1bc1fd0cb2fda0b3950b11efbca3239a89b4184e3b5e0550dd7f1f94ca67cddc"
 metafile = true
 
 [[files]]
+file = "mods/drive-by-wire.pw.toml"
+hash = "e42a43132302d112feedbb2b1a5f514493b07e78090f67ee83fbed3888c55719"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-view.pw.toml"
 hash = "9503bfd7d59bb3f50232a6c5ea90e5790e178cc96b2463eb3e9775f65d1ef4ea"
 metafile = true
