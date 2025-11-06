@@ -1164,6 +1164,11 @@ hash = "a02a308cb3d5db184feeaa2c9493ec10531f017b9b39a4ea982fca2b11f08bb8"
 metafile = true
 
 [[files]]
+file = "mods/tinkers-levelling-addon.pw.toml"
+hash = "0d8be7cf9a149da6eaf7a4bc24995d3eb094260c0f353516074b5fb33f9bdd0f"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "edfafd11282b46cca84cce70807e85f8b11e918ead6a1ef7aa7d9e216d98ece3"
 metafile = true
